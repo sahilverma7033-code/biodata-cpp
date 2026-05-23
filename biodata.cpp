@@ -12,6 +12,20 @@ int main() {
     cout << "College        : Technocrats Institute of Technology" << endl;
     cout << "Branch         : B.Tech - Computer Science" << endl;
     cout << "Year           : 1st Year" << endl;
-    cout << "City   
-return 0
-}     
+    cout << "City           : Bhopal, Madhya Pradesh" << endl;
+    cout << endl;
+    
+    cout << "-------------------------------------" << endl;
+    cout << "Skills Learning: C++, GitHub, Problem Solving" << endl;
+    cout << "Goal           : IBM Student Ambassador 2026" << endl;
+    cout << "Motto          : WORK HARD DREAM BIG" << endl;
+    cout << "-------------------------------------" << endl;
+    cout << endl;
+    
+    cout << "=====================================" << endl;
+    cout << "   Thank you for viewing my profile  " << endl;
+    cout << "=====================================" << endl;
+    
+    return 0;
+}
+ 
