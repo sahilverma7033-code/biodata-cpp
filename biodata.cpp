@@ -12,4 +12,6 @@ int main() {
     cout << "College        : Technocrats Institute of Technology" << endl;
     cout << "Branch         : B.Tech - Computer Science" << endl;
     cout << "Year           : 1st Year" << endl;
-    cout << "City          
+    cout << "City   
+return 0
+}     
